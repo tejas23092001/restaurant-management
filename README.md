@@ -68,4 +68,4 @@ export SECRET_KEY="yourSecretKey"
 # Run the server
 go run main.go
 
-Server will run at: http://localhost:8080
+Server will run at: http://localhost:8000
